@@ -97,6 +97,10 @@ console.log("Question #8: " + extractAllOddNumbers(numbers));
 console.log("Question #9: " + extractAllEvenNumbers(numbers));
 console.log("Question #10: " + contains(numbers,5));
 
+
 console.log("I am not crazy and I really do this shit");
+
+console.log("GO COMMANDERS AND GO JD5");
+
 
 
